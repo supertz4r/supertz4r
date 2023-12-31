@@ -11,6 +11,7 @@ I'm just a life long learning freak.
 <img align="left" alt="Cobol" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373510/cobol.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" />
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />          
 <br />
 

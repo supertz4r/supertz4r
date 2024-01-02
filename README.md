@@ -19,9 +19,11 @@ I'm just a life long learning freak.
 #
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eri-junior/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/aaaaaaaaaaaaaaaaaaa111121/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/lejrfese)
 
 ## Github Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=supertz4r&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
 
-## Spotify Recent Played
+#
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lejrfese&width=1000)

@@ -31,8 +31,8 @@ I'm just a life-long-learning-freak.
 
 ## Github Statistics
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://streak-stats.demolab.com?user=supertz4r&theme=merko&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-murex-pi-70.vercel.app/api/top-langs/?username=supertz4r&show_icons=true&theme=merko&layout=compact" />
+<img width=55% align="center"  src="https://streak-stats.demolab.com?user=supertz4r&theme=merko&hide_border=true&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-murex-pi-70.vercel.app/api/top-langs/?username=supertz4r&show_icons=true&hide_border=true&theme=merko&layout=compact" />
 </div>
 
 #

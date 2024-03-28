@@ -1,7 +1,6 @@
 ### ⚡supertz4r🦇
 
 ![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=supertz4r&theme=github-compact)
-I'm just a life-long-learning-freak.
  
 ### 🧰 Main Stack
 
